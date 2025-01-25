@@ -1,0 +1,14 @@
+RWTexture2D<float4> RenderTarget;
+
+// Uncomment this pragma for debugging the HLSL code in PIX. GPU performance will be impacted.
+//#pragma enable_ray_tracing_shader_debug_symbols
+
+#pragma max_recursion_depth 1
+
+[shader("raygeneration")]
+void MyRaygenShader()
+{
+    uint2 dispatchIdx = DispatchRaysIndex().xy;
+   
+    RenderTarget[dispatchIdx] = float4(dispatchIdx.x & dispatchIdx.y, (dispatchIdx.x & 15)/15.0, (dispatchIdx.y & 15)/15.0, 0.0);
+}

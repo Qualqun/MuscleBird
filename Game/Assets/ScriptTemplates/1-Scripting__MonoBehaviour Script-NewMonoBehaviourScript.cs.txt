@@ -1,0 +1,47 @@
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME# : MonoBehaviour
+{
+
+    #region Fields
+
+    //Serialized
+    //Example : [SerializedField] (access modifier) Type m_name; <---If PRIVATE only accessible by class, use inheritance logic for (access modifier)
+
+    //Public
+
+    //Private
+
+    #endregion
+
+    #region Messages
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
+        #NOTRIM#
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        #NOTRIM#
+    }
+    #endregion
+
+    #region PrivateMethods
+
+    #endregion
+
+    #region PublicMethods
+
+    #endregion
+
+    #region Properties/Accessors
+
+    //(access modifier)type name{ get {return someVar;} set{ name = anotherVar}}
+    #endregion
+
+
+}
+#ROOTNAMESPACEEND#

@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 367ed9ef7c688f44f93fd455e0559b04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2729906887876473384
+    second: teste_paralax_0013_Groupe-5_0
+  - first:
+      213: -1349049548468171411
+    second: teste_paralax_0013_Groupe-5_1
+  - first:
+      213: 9170297994862656042
+    second: teste_paralax_0013_Groupe-5_2
+  - first:
+      213: -7634145663107244804
+    second: teste_paralax_0013_Groupe-5_3
+  - first:
+      213: -5399067966131979646
+    second: teste_paralax_0013_Groupe-5_4
+  - first:
+      213: -7469995449160246916
+    second: teste_paralax_0013_Groupe-5_5
+  - first:
+      213: 7992693964017897520
+    second: teste_paralax_0013_Groupe-5_6
+  - first:
+      213: 8847741177409522842
+    second: teste_paralax_0013_Groupe-5_7
+  - first:
+      213: 217338993431750409
+    second: teste_paralax_0013_Groupe-5_8
+  - first:
+      213: -8825595553754615063
+    second: teste_paralax_0013_Groupe-5_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teste_paralax_0013_Groupe-5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 737
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822f4c1d9d392e520800000000000000
+      internalID: 2729906887876473384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teste_paralax_0013_Groupe-5_1
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 76
+        width: 864
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d472f4596374de0800000000000000
+      internalID: -1349049548468171411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teste_paralax_0013_Groupe-5_2
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 0
+        width: 418
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2af344a071734f70800000000000000
+      internalID: 9170297994862656042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teste_paralax_0013_Groupe-5_3
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 87
+        width: 557
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc57e287f01e0690800000000000000
+      internalID: -7634145663107244804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teste_paralax_0013_Groupe-5_4
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 97
+        width: 175
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a33805a48a215b0800000000000000
+      internalID: -5399067966131979646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teste_paralax_0013_Groupe-5_5
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 69
+        width: 175
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79d40b77be355890800000000000000
+      internalID: -7469995449160246916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teste_paralax_0013_Groupe-5_6
+      rect:
+        serializedVersion: 2
+        x: 6018
+        y: 35
+        width: 617
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03012bb20d0cbee60800000000000000
+      internalID: 7992693964017897520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teste_paralax_0013_Groupe-5_7
+      rect:
+        serializedVersion: 2
+        x: 7225
+        y: 0
+        width: 556
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c471839bd79ca70800000000000000
+      internalID: 8847741177409522842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teste_paralax_0013_Groupe-5_8
+      rect:
+        serializedVersion: 2
+        x: 7817
+        y: 33
+        width: 429
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907275bb9a4240300800000000000000
+      internalID: 217338993431750409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teste_paralax_0013_Groupe-5_9
+      rect:
+        serializedVersion: 2
+        x: 8420
+        y: 79
+        width: 598
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e270379a9f258580800000000000000
+      internalID: -8825595553754615063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      teste_paralax_0013_Groupe-5_0: 2729906887876473384
+      teste_paralax_0013_Groupe-5_1: -1349049548468171411
+      teste_paralax_0013_Groupe-5_2: 9170297994862656042
+      teste_paralax_0013_Groupe-5_3: -7634145663107244804
+      teste_paralax_0013_Groupe-5_4: -5399067966131979646
+      teste_paralax_0013_Groupe-5_5: -7469995449160246916
+      teste_paralax_0013_Groupe-5_6: 7992693964017897520
+      teste_paralax_0013_Groupe-5_7: 8847741177409522842
+      teste_paralax_0013_Groupe-5_8: 217338993431750409
+      teste_paralax_0013_Groupe-5_9: -8825595553754615063
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

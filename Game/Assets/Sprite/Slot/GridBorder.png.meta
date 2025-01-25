@@ -1,0 +1,2106 @@
+fileFormatVersion: 2
+guid: 127e9c14cb5af61449ee9ffca04f9089
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1561754703209072796
+    second: GridBorder_0
+  - first:
+      213: -7902357798254337912
+    second: GridBorder_1
+  - first:
+      213: -5352801483937585936
+    second: GridBorder_2
+  - first:
+      213: -1502974903711517280
+    second: GridBorder_3
+  - first:
+      213: 1713840610733918208
+    second: GridBorder_4
+  - first:
+      213: 4347146629109169105
+    second: GridBorder_5
+  - first:
+      213: 8848872888342874996
+    second: GridBorder_6
+  - first:
+      213: -5695071177663284005
+    second: GridBorder_7
+  - first:
+      213: -4644913002650088639
+    second: GridBorder_8
+  - first:
+      213: -1305648812495935606
+    second: GridBorder_9
+  - first:
+      213: -3331628506616464799
+    second: GridBorder_10
+  - first:
+      213: 4705314082774438548
+    second: GridBorder_11
+  - first:
+      213: -202746312419064171
+    second: GridBorder_12
+  - first:
+      213: 5148304559105052979
+    second: GridBorder_13
+  - first:
+      213: -1481353426279742043
+    second: GridBorder_14
+  - first:
+      213: -7182644172462763424
+    second: GridBorder_15
+  - first:
+      213: -7466312014067113293
+    second: GridBorder_16
+  - first:
+      213: 4453150346876683424
+    second: GridBorder_17
+  - first:
+      213: -4545259042415962061
+    second: GridBorder_18
+  - first:
+      213: 160584153822700206
+    second: GridBorder_19
+  - first:
+      213: 2348873465034707471
+    second: GridBorder_20
+  - first:
+      213: 4597689044765156767
+    second: GridBorder_21
+  - first:
+      213: 6392086434997636032
+    second: GridBorder_22
+  - first:
+      213: -1481470738228393144
+    second: GridBorder_23
+  - first:
+      213: 6032691481048963834
+    second: GridBorder_24
+  - first:
+      213: -7517552135370688133
+    second: GridBorder_25
+  - first:
+      213: -4503007597088017382
+    second: GridBorder_26
+  - first:
+      213: -637259748925579258
+    second: GridBorder_27
+  - first:
+      213: 8014713096735873659
+    second: GridBorder_28
+  - first:
+      213: -3084143373949025157
+    second: GridBorder_29
+  - first:
+      213: -1230989930092013674
+    second: GridBorder_30
+  - first:
+      213: 6271883248448282002
+    second: GridBorder_31
+  - first:
+      213: 2631692197282247101
+    second: GridBorder_32
+  - first:
+      213: -7561082760572637366
+    second: GridBorder_33
+  - first:
+      213: -9123179837507947193
+    second: GridBorder_34
+  - first:
+      213: -7427723177602376918
+    second: GridBorder_35
+  - first:
+      213: 7805479582395820151
+    second: GridBorder_36
+  - first:
+      213: 8735984668755018215
+    second: GridBorder_37
+  - first:
+      213: -6589904779088488655
+    second: GridBorder_38
+  - first:
+      213: 1831653988553493318
+    second: GridBorder_39
+  - first:
+      213: 5844998997132637415
+    second: GridBorder_40
+  - first:
+      213: 5241212779916225592
+    second: GridBorder_41
+  - first:
+      213: -1200657111969502996
+    second: GridBorder_42
+  - first:
+      213: -5318742024692988697
+    second: GridBorder_43
+  - first:
+      213: 6852203668847863008
+    second: GridBorder_44
+  - first:
+      213: -8558995455813150522
+    second: GridBorder_45
+  - first:
+      213: -613348765996415841
+    second: GridBorder_46
+  - first:
+      213: 3433238743124698582
+    second: GridBorder_47
+  - first:
+      213: -6154905108093258626
+    second: GridBorder_48
+  - first:
+      213: 3540362727103833010
+    second: GridBorder_49
+  - first:
+      213: -6721713520556714234
+    second: GridBorder_50
+  - first:
+      213: -2287123676040207148
+    second: GridBorder_51
+  - first:
+      213: -435247554689460511
+    second: GridBorder_52
+  - first:
+      213: -7060530940486329306
+    second: GridBorder_53
+  - first:
+      213: 5122860362565280759
+    second: GridBorder_54
+  - first:
+      213: 3217307749764374115
+    second: GridBorder_55
+  - first:
+      213: -8517836987708298216
+    second: GridBorder_56
+  - first:
+      213: 9011631341901831609
+    second: GridBorder_57
+  - first:
+      213: 7949107229119199144
+    second: GridBorder_58
+  - first:
+      213: 2310634197375509159
+    second: GridBorder_59
+  - first:
+      213: 6498740747356666679
+    second: GridBorder_60
+  - first:
+      213: -1731044103904413730
+    second: GridBorder_61
+  - first:
+      213: -6334847422427783522
+    second: GridBorder_62
+  - first:
+      213: -2149197912707722403
+    second: GridBorder_63
+  - first:
+      213: 4114606176878191433
+    second: GridBorder_64
+  - first:
+      213: -5287592136328187829
+    second: GridBorder_65
+  - first:
+      213: 1052210269454595888
+    second: GridBorder_66
+  - first:
+      213: -2687170922119823103
+    second: GridBorder_67
+  - first:
+      213: -2047843018067465916
+    second: GridBorder_68
+  - first:
+      213: 6548072113431204607
+    second: GridBorder_69
+  - first:
+      213: -6987258018840744140
+    second: GridBorder_70
+  - first:
+      213: -1379199287066857826
+    second: GridBorder_71
+  - first:
+      213: -2595489261608318163
+    second: GridBorder_72
+  - first:
+      213: -2986204162042027839
+    second: GridBorder_73
+  - first:
+      213: -378200540973811796
+    second: GridBorder_74
+  - first:
+      213: 3054813653133287731
+    second: GridBorder_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GridBorder_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4677de83f58835ae0800000000000000
+      internalID: -1561754703209072796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 504
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8802303737f255290800000000000000
+      internalID: -7902357798254337912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 504
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f467b4296707b5b0800000000000000
+      internalID: -5352801483937585936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 504
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5b2f5c94c542be0800000000000000
+      internalID: -1502974903711517280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 504
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0080f6484f8c8c710800000000000000
+      internalID: 1713840610733918208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 504
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbb696b3da245c30800000000000000
+      internalID: 4347146629109169105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_6
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 504
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b034432038dca70800000000000000
+      internalID: 8848872888342874996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 504
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc70dc00fa07f0b0800000000000000
+      internalID: -5695071177663284005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 504
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bc270eb34f98fb0800000000000000
+      internalID: -4644913002650088639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 504
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87e4c9925761ede0800000000000000
+      internalID: -1305648812495935606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 504
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a7f83668da3c1d0800000000000000
+      internalID: -3331628506616464799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_11
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 504
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492d96c7a32ac4140800000000000000
+      internalID: 4705314082774438548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_12
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 504
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596cdb49d43bf2df0800000000000000
+      internalID: -202746312419064171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_13
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 504
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3311bf838b3727740800000000000000
+      internalID: 5148304559105052979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_14
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 504
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5c9c748ec217be0800000000000000
+      internalID: -1481353426279742043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_15
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 504
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062d3503e2f125c90800000000000000
+      internalID: -7182644172462763424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_16
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 504
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b26c4b08c4526890800000000000000
+      internalID: -7466312014067113293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_17
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 504
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a40efc85a4cccd30800000000000000
+      internalID: 4453150346876683424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_18
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 504
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3381aa49bfefbe0c0800000000000000
+      internalID: -4545259042415962061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_19
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 484
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2a825ef628a3200800000000000000
+      internalID: 160584153822700206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f021cb9b8ffd89020800000000000000
+      internalID: 2348873465034707471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_21
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 458
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95aeec93d54ecf30800000000000000
+      internalID: 4597689044765156767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb80a3feb045b850800000000000000
+      internalID: 6392086434997636032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_23
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 433
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bc2c67632c07be0800000000000000
+      internalID: -1481470738228393144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afad27f70fc68b350800000000000000
+      internalID: 6032691481048963834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_25
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 408
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7930ce992a4ca790800000000000000
+      internalID: -7517552135370688133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14feaac27a1281c0800000000000000
+      internalID: -4503007597088017382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_27
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 383
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600e2ab72aff727f0800000000000000
+      internalID: -637259748925579258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7adc93091bf93f60800000000000000
+      internalID: 8014713096735873659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_29
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 358
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74c46f11fbe235d0800000000000000
+      internalID: -3084143373949025157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69758ce3e25aaeee0800000000000000
+      internalID: -1230989930092013674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_31
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 333
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d9b78a5943a0750800000000000000
+      internalID: 6271883248448282002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1fc213c16a58420800000000000000
+      internalID: 2631692197282247101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_33
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 308
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fecb22a43a11790800000000000000
+      internalID: -7561082760572637366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74535534644f36180800000000000000
+      internalID: -9123179837507947193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_35
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 283
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b131daf1d6be890800000000000000
+      internalID: -7427723177602376918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77864423352a25c60800000000000000
+      internalID: 7805479582395820151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 258
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1c66065c37c3970800000000000000
+      internalID: 8735984668755018215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13718caa484fb84a0800000000000000
+      internalID: -6589904779088488655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_39
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 233
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b882b19975b6910800000000000000
+      internalID: 1831653988553493318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4fa98ae9b9d1150800000000000000
+      internalID: 5844998997132637415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_41
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 208
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ce42311478cb840800000000000000
+      internalID: 5241212779916225592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8e200d7b8665fe0800000000000000
+      internalID: -1200657111969502996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_43
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 183
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e48b36fe480036b0800000000000000
+      internalID: -5318742024692988697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e42e4aaeeae71f50800000000000000
+      internalID: 6852203668847863008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_45
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 158
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8131efaf6583980800000000000000
+      internalID: -8558995455813150522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f940c570c82fc77f0800000000000000
+      internalID: -613348765996415841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_47
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 133
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d56e01627055af20800000000000000
+      internalID: 3433238743124698582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e743ddd0a62659aa0800000000000000
+      internalID: -6154905108093258626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_49
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 108
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3ae058425e12130800000000000000
+      internalID: 3540362727103833010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607d64d8a2da7b2a0800000000000000
+      internalID: -6721713520556714234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_51
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 83
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4ec3462218240e0800000000000000
+      internalID: -2287123676040207148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e69061b7a0b5f9f0800000000000000
+      internalID: -435247554689460511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_53
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 58
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c58a69484f30e90800000000000000
+      internalID: -7060530940486329306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3e1a09b5e081740800000000000000
+      internalID: 5122860362565280759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_55
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 31
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e11d53a5c26ac20800000000000000
+      internalID: 3217307749764374115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ca6fc93609ac980800000000000000
+      internalID: -8517836987708298216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_57
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdd5d4b5febf0d70800000000000000
+      internalID: 9011631341901831609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_58
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7b321a8e6e05e60800000000000000
+      internalID: 7949107229119199144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_59
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2ef6c6f85011020800000000000000
+      internalID: 2310634197375509159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_60
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bfc85274a203a50800000000000000
+      internalID: 6498740747356666679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_61
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed73e381f881af7e0800000000000000
+      internalID: -1731044103904413730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_62
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e94ef25d91618a0800000000000000
+      internalID: -6334847422427783522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_63
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d539b05a2e38c22e0800000000000000
+      internalID: -2149197912707722403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_64
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943e37b84840a1930800000000000000
+      internalID: 4114606176878191433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_65
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40720587f2be96b0800000000000000
+      internalID: -5287592136328187829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_66
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037fbdb4aa33a9e00800000000000000
+      internalID: 1052210269454595888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_67
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1010a48984045bad0800000000000000
+      internalID: -2687170922119823103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_68
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449235000a99493e0800000000000000
+      internalID: -2047843018067465916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_69
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff255bcd4ec6fda50800000000000000
+      internalID: 6548072113431204607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_70
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f6ff81ad5480f90800000000000000
+      internalID: -6987258018840744140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_71
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e68e34e891cdce0800000000000000
+      internalID: -1379199287066857826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_72
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bce7f9448fafbd0800000000000000
+      internalID: -2595489261608318163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_73
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c021bed22fde86d0800000000000000
+      internalID: -2986204162042027839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_74
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 0
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7356d9c9c50caf0800000000000000
+      internalID: -378200540973811796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GridBorder_75
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331e50a15d0e46a20800000000000000
+      internalID: 3054813653133287731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GridBorder_0: -1561754703209072796
+      GridBorder_1: -7902357798254337912
+      GridBorder_10: -3331628506616464799
+      GridBorder_11: 4705314082774438548
+      GridBorder_12: -202746312419064171
+      GridBorder_13: 5148304559105052979
+      GridBorder_14: -1481353426279742043
+      GridBorder_15: -7182644172462763424
+      GridBorder_16: -7466312014067113293
+      GridBorder_17: 4453150346876683424
+      GridBorder_18: -4545259042415962061
+      GridBorder_19: 160584153822700206
+      GridBorder_2: -5352801483937585936
+      GridBorder_20: 2348873465034707471
+      GridBorder_21: 4597689044765156767
+      GridBorder_22: 6392086434997636032
+      GridBorder_23: -1481470738228393144
+      GridBorder_24: 6032691481048963834
+      GridBorder_25: -7517552135370688133
+      GridBorder_26: -4503007597088017382
+      GridBorder_27: -637259748925579258
+      GridBorder_28: 8014713096735873659
+      GridBorder_29: -3084143373949025157
+      GridBorder_3: -1502974903711517280
+      GridBorder_30: -1230989930092013674
+      GridBorder_31: 6271883248448282002
+      GridBorder_32: 2631692197282247101
+      GridBorder_33: -7561082760572637366
+      GridBorder_34: -9123179837507947193
+      GridBorder_35: -7427723177602376918
+      GridBorder_36: 7805479582395820151
+      GridBorder_37: 8735984668755018215
+      GridBorder_38: -6589904779088488655
+      GridBorder_39: 1831653988553493318
+      GridBorder_4: 1713840610733918208
+      GridBorder_40: 5844998997132637415
+      GridBorder_41: 5241212779916225592
+      GridBorder_42: -1200657111969502996
+      GridBorder_43: -5318742024692988697
+      GridBorder_44: 6852203668847863008
+      GridBorder_45: -8558995455813150522
+      GridBorder_46: -613348765996415841
+      GridBorder_47: 3433238743124698582
+      GridBorder_48: -6154905108093258626
+      GridBorder_49: 3540362727103833010
+      GridBorder_5: 4347146629109169105
+      GridBorder_50: -6721713520556714234
+      GridBorder_51: -2287123676040207148
+      GridBorder_52: -435247554689460511
+      GridBorder_53: -7060530940486329306
+      GridBorder_54: 5122860362565280759
+      GridBorder_55: 3217307749764374115
+      GridBorder_56: -8517836987708298216
+      GridBorder_57: 9011631341901831609
+      GridBorder_58: 7949107229119199144
+      GridBorder_59: 2310634197375509159
+      GridBorder_6: 8848872888342874996
+      GridBorder_60: 6498740747356666679
+      GridBorder_61: -1731044103904413730
+      GridBorder_62: -6334847422427783522
+      GridBorder_63: -2149197912707722403
+      GridBorder_64: 4114606176878191433
+      GridBorder_65: -5287592136328187829
+      GridBorder_66: 1052210269454595888
+      GridBorder_67: -2687170922119823103
+      GridBorder_68: -2047843018067465916
+      GridBorder_69: 6548072113431204607
+      GridBorder_7: -5695071177663284005
+      GridBorder_70: -6987258018840744140
+      GridBorder_71: -1379199287066857826
+      GridBorder_72: -2595489261608318163
+      GridBorder_73: -2986204162042027839
+      GridBorder_74: -378200540973811796
+      GridBorder_75: 3054813653133287731
+      GridBorder_8: -4644913002650088639
+      GridBorder_9: -1305648812495935606
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

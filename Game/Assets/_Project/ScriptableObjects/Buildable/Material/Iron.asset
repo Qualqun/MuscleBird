@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5806f0aba37adf7498035666acd5a97d, type: 3}
+  m_Name: Iron
+  m_EditorClassIdentifier: 
+  tileTypes:
+  - configuration: 0
+    tileType:
+      m_sprite: {fileID: 1320003098, guid: 664aafc95e9c7f9429e15608c3f9c271, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 8
+    tileType:
+      m_sprite: {fileID: 1436268073, guid: 664aafc95e9c7f9429e15608c3f9c271, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 4
+    tileType:
+      m_sprite: {fileID: -1589734805, guid: 664aafc95e9c7f9429e15608c3f9c271, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 2
+    tileType:
+      m_sprite: {fileID: 153255390, guid: 664aafc95e9c7f9429e15608c3f9c271, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 1
+    tileType:
+      m_sprite: {fileID: 1581230397, guid: 664aafc95e9c7f9429e15608c3f9c271, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 12
+    tileType:
+      m_sprite: {fileID: -747260563, guid: 664aafc95e9c7f9429e15608c3f9c271, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 10
+    tileType:
+      m_sprite: {fileID: 755664000, guid: 664aafc95e9c7f9429e15608c3f9c271, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 9
+    tileType:
+      m_sprite: {fileID: -3715074838114331638, guid: 664aafc95e9c7f9429e15608c3f9c271, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 6
+    tileType:
+      m_sprite: {fileID: -1090667942, guid: 664aafc95e9c7f9429e15608c3f9c271, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 5
+    tileType:
+      m_sprite: {fileID: -1905572306, guid: 664aafc95e9c7f9429e15608c3f9c271, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 3
+    tileType:
+      m_sprite: {fileID: -488125736, guid: 664aafc95e9c7f9429e15608c3f9c271, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 14
+    tileType:
+      m_sprite: {fileID: -1817068147, guid: 664aafc95e9c7f9429e15608c3f9c271, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 13
+    tileType:
+      m_sprite: {fileID: 359500067, guid: 664aafc95e9c7f9429e15608c3f9c271, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 11
+    tileType:
+      m_sprite: {fileID: 1269869602, guid: 664aafc95e9c7f9429e15608c3f9c271, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 7
+    tileType:
+      m_sprite: {fileID: -1645285137, guid: 664aafc95e9c7f9429e15608c3f9c271, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 15
+    tileType:
+      m_sprite: {fileID: -251262121, guid: 664aafc95e9c7f9429e15608c3f9c271, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  sprite: {fileID: -852495541512626098, guid: 38aa1c431c179ae4e84b852c9a96c4f5, type: 3}
+  alternatSprite: {fileID: 0}
+  icon: {fileID: 6063555159343728963, guid: 053e93bbf604ff4458c3f33bfa41e445, type: 3}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  material: 3
+  maxHp: 25
+  score: 20
+  minQuantity: 1
+  maxQuantity: 2
+  forceSpawnAtSlot: 0
+  hasRandDrawer: 1
+  notRandDrawer: {fileID: 0}

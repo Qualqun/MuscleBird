@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5806f0aba37adf7498035666acd5a97d, type: 3}
+  m_Name: Prot
+  m_EditorClassIdentifier: 
+  tileTypes:
+  - configuration: 1
+    tileType:
+      m_sprite: {fileID: -6012796573132122837, guid: db3e5c9359d14124688da7e42ef0cceb, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 9
+    tileType:
+      m_sprite: {fileID: -7938928071342645649, guid: 388dae7abdfe8744c85daef97b75b057, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 3
+    tileType:
+      m_sprite: {fileID: 6457312064230634863, guid: a20a46813c4c449458f96e7062533f51, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 4
+    tileType:
+      m_sprite: {fileID: 2059033291768421334, guid: 29027b1d77f017649be2dd020e9d499d, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 12
+    tileType:
+      m_sprite: {fileID: -1671794657320221718, guid: 5d856287b4c0c424a83a00b269566b8b, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 6
+    tileType:
+      m_sprite: {fileID: -3806790761016068931, guid: dc6f902413484654bb17e66d0090f40d, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 0
+    tileType:
+      m_sprite: {fileID: 21300000, guid: bb681215bc9acdf48896bb07f0dd6bda, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  sprite: {fileID: -1671794657320221718, guid: 5d856287b4c0c424a83a00b269566b8b, type: 3}
+  alternatSprite: {fileID: -7938928071342645649, guid: 388dae7abdfe8744c85daef97b75b057, type: 3}
+  icon: {fileID: 21300000, guid: bb681215bc9acdf48896bb07f0dd6bda, type: 3}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  material: 4
+  maxHp: 5
+  score: 100
+  minQuantity: 3
+  maxQuantity: 3
+  forceSpawnAtSlot: 1
+  hasRandDrawer: 0
+  notRandDrawer: {fileID: 11400000, guid: 615f4eea645686341bc7ee06cbba7e83, type: 2}

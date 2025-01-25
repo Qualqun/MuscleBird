@@ -1,0 +1,1326 @@
+fileFormatVersion: 2
+guid: 0af74ac365e11e341bc7c5af0dfbb7cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7810677523931785472
+    second: logo-Creajeux-blc_0
+  - first:
+      213: 712122941887233107
+    second: logo-Creajeux-blc_1
+  - first:
+      213: 6545505852586490955
+    second: logo-Creajeux-blc_2
+  - first:
+      213: 5108903466843894583
+    second: logo-Creajeux-blc_3
+  - first:
+      213: -2167365075294909106
+    second: logo-Creajeux-blc_4
+  - first:
+      213: 5458002677119237079
+    second: logo-Creajeux-blc_5
+  - first:
+      213: 3942252799266888241
+    second: logo-Creajeux-blc_6
+  - first:
+      213: -1201325956407611397
+    second: logo-Creajeux-blc_7
+  - first:
+      213: -461729086662976123
+    second: logo-Creajeux-blc_8
+  - first:
+      213: 8081990472794654713
+    second: logo-Creajeux-blc_9
+  - first:
+      213: -9094940706339486612
+    second: logo-Creajeux-blc_10
+  - first:
+      213: 2122492158509063062
+    second: logo-Creajeux-blc_11
+  - first:
+      213: 7078359017727596177
+    second: logo-Creajeux-blc_12
+  - first:
+      213: 3054673219144770748
+    second: logo-Creajeux-blc_13
+  - first:
+      213: -6174487942542448923
+    second: logo-Creajeux-blc_14
+  - first:
+      213: 5010969787037503076
+    second: logo-Creajeux-blc_15
+  - first:
+      213: -3911668565712971191
+    second: logo-Creajeux-blc_16
+  - first:
+      213: 8417755499773780287
+    second: logo-Creajeux-blc_17
+  - first:
+      213: 6535142476706954004
+    second: logo-Creajeux-blc_18
+  - first:
+      213: 3848837663774858993
+    second: logo-Creajeux-blc_19
+  - first:
+      213: -7903963162005029045
+    second: logo-Creajeux-blc_20
+  - first:
+      213: -8439951952334038914
+    second: logo-Creajeux-blc_21
+  - first:
+      213: 3203028218177833461
+    second: logo-Creajeux-blc_22
+  - first:
+      213: -48373302660920196
+    second: logo-Creajeux-blc_23
+  - first:
+      213: -5542624387209435492
+    second: logo-Creajeux-blc_24
+  - first:
+      213: -8212720417528782669
+    second: logo-Creajeux-blc_25
+  - first:
+      213: 7238385446382214918
+    second: logo-Creajeux-blc_26
+  - first:
+      213: -911055457500620786
+    second: logo-Creajeux-blc_27
+  - first:
+      213: 1021961052233837398
+    second: logo-Creajeux-blc_28
+  - first:
+      213: -8579468711605619768
+    second: logo-Creajeux-blc_29
+  - first:
+      213: -3689625557914094083
+    second: logo-Creajeux-blc_30
+  - first:
+      213: -7332058211609147603
+    second: logo-Creajeux-blc_31
+  - first:
+      213: -76916140963248375
+    second: logo-Creajeux-blc_32
+  - first:
+      213: 8310119275916580816
+    second: logo-Creajeux-blc_33
+  - first:
+      213: 8687463202865489924
+    second: logo-Creajeux-blc_34
+  - first:
+      213: 3683932079214214374
+    second: logo-Creajeux-blc_35
+  - first:
+      213: 7163769237735248965
+    second: logo-Creajeux-blc_36
+  - first:
+      213: 141143888823254456
+    second: logo-Creajeux-blc_37
+  - first:
+      213: -7461390917345071912
+    second: logo-Creajeux-blc_38
+  - first:
+      213: -6115555568336544019
+    second: logo-Creajeux-blc_39
+  - first:
+      213: -3891117904359270191
+    second: logo-Creajeux-blc_40
+  - first:
+      213: -8819131330143337399
+    second: logo-Creajeux-blc_41
+  - first:
+      213: 6135340619421822255
+    second: logo-Creajeux-blc_42
+  - first:
+      213: 4619254687106499740
+    second: logo-Creajeux-blc_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_0
+      rect:
+        serializedVersion: 2
+        x: 5999
+        y: 7700
+        width: 722
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009e41543d9156c60800000000000000
+      internalID: 7810677523931785472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_1
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 4873
+        width: 1628
+        height: 2659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c389bea08f1e900800000000000000
+      internalID: 712122941887233107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_2
+      rect:
+        serializedVersion: 2
+        x: 5288
+        y: 4873
+        width: 1616
+        height: 2659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c78a2b4ee46da50800000000000000
+      internalID: 6545505852586490955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_3
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2831
+        width: 688
+        height: 1195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733fdfc82a876e640800000000000000
+      internalID: 5108903466843894583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_4
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 2849
+        width: 717
+        height: 1170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d857c72f8fbe1e0800000000000000
+      internalID: -2167365075294909106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_5
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 2856
+        width: 557
+        height: 1171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbb2d06488bebb40800000000000000
+      internalID: 5458002677119237079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_6
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 2860
+        width: 845
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a9713b802b5b630800000000000000
+      internalID: 3942252799266888241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_7
+      rect:
+        serializedVersion: 2
+        x: 5273
+        y: 2855
+        width: 618
+        height: 1183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff2ed45868045fe0800000000000000
+      internalID: -1201325956407611397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_8
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 2873
+        width: 557
+        height: 1171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ddcfe87db9799f0800000000000000
+      internalID: -461729086662976123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_9
+      rect:
+        serializedVersion: 2
+        x: 7010
+        y: 2867
+        width: 678
+        height: 1183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f74409c38ff82070800000000000000
+      internalID: 8081990472794654713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_10
+      rect:
+        serializedVersion: 2
+        x: 7914
+        y: 2883
+        width: 759
+        height: 1173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6405695d9748c180800000000000000
+      internalID: -9094940706339486612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_11
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 2076
+        width: 101
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b1c7a6f5b947d10800000000000000
+      internalID: 2122492158509063062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_12
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 2540
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196165c16026b3260800000000000000
+      internalID: 7078359017727596177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_13
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 2519
+        width: 85
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4e504cb11646a20800000000000000
+      internalID: 3054673219144770748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_14
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 2083
+        width: 101
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e623da1eefcf4aa0800000000000000
+      internalID: -6174487942542448923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_15
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 2081
+        width: 184
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ec598d87a8a8540800000000000000
+      internalID: 5010969787037503076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_16
+      rect:
+        serializedVersion: 2
+        x: 4781
+        y: 2536
+        width: 85
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94add951a26f6b9c0800000000000000
+      internalID: -3911668565712971191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_17
+      rect:
+        serializedVersion: 2
+        x: 5146
+        y: 2577
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f316b122700e1d470800000000000000
+      internalID: 8417755499773780287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_18
+      rect:
+        serializedVersion: 2
+        x: 6101
+        y: 2098
+        width: 184
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b3fa8357d71ba50800000000000000
+      internalID: 6535142476706954004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_19
+      rect:
+        serializedVersion: 2
+        x: 6801
+        y: 2588
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fed1739671d96530800000000000000
+      internalID: 3848837663774858993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_20
+      rect:
+        serializedVersion: 2
+        x: 7827
+        y: 2594
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fbae2916b7f4290800000000000000
+      internalID: -7903963162005029045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_21
+      rect:
+        serializedVersion: 2
+        x: 7954
+        y: 2110
+        width: 184
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78d3c78a644fda80800000000000000
+      internalID: -8439951952334038914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_22
+      rect:
+        serializedVersion: 2
+        x: 8297
+        y: 2559
+        width: 85
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9ca0ea131737c20800000000000000
+      internalID: 3203028218177833461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_23
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 2072
+        width: 187
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c884eccb4245ff0800000000000000
+      internalID: -48373302660920196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_24
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 2074
+        width: 183
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96e6f46c74a413b0800000000000000
+      internalID: -5542624387209435492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_25
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 2075
+        width: 187
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b069990b4e860e80800000000000000
+      internalID: -8212720417528782669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_26
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 2078
+        width: 187
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f18fe7639e37460800000000000000
+      internalID: 7238385446382214918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_27
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 2082
+        width: 187
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e089efc63e74b53f0800000000000000
+      internalID: -911055457500620786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_28
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 2084
+        width: 194
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65baea4992cbe2e00800000000000000
+      internalID: 1021961052233837398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_29
+      rect:
+        serializedVersion: 2
+        x: 4297
+        y: 2091
+        width: 328
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c33b2ba9aa9fe880800000000000000
+      internalID: -8579468711605619768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_30
+      rect:
+        serializedVersion: 2
+        x: 4706
+        y: 2089
+        width: 187
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5f3528a11dbccc0800000000000000
+      internalID: -3689625557914094083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_31
+      rect:
+        serializedVersion: 2
+        x: 4934
+        y: 2097
+        width: 158
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d270d8847eb4f3a90800000000000000
+      internalID: -7332058211609147603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_32
+      rect:
+        serializedVersion: 2
+        x: 5154
+        y: 2097
+        width: 34
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90744646d2dbeeef0800000000000000
+      internalID: -76916140963248375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_33
+      rect:
+        serializedVersion: 2
+        x: 5272
+        y: 2093
+        width: 187
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7522ad379735370800000000000000
+      internalID: 8310119275916580816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_34
+      rect:
+        serializedVersion: 2
+        x: 5539
+        y: 2099
+        width: 113
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408231e31c1109870800000000000000
+      internalID: 8687463202865489924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_35
+      rect:
+        serializedVersion: 2
+        x: 5692
+        y: 2096
+        width: 194
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecba3e25b4ff1330800000000000000
+      internalID: 3683932079214214374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_36
+      rect:
+        serializedVersion: 2
+        x: 6378
+        y: 2100
+        width: 181
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544941c9a22da6360800000000000000
+      internalID: 7163769237735248965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_37
+      rect:
+        serializedVersion: 2
+        x: 6746
+        y: 1950
+        width: 97
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdf68b7e9175f100800000000000000
+      internalID: 141143888823254456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_38
+      rect:
+        serializedVersion: 2
+        x: 6927
+        y: 2103
+        width: 187
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc22592e70d37890800000000000000
+      internalID: -7461390917345071912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_39
+      rect:
+        serializedVersion: 2
+        x: 7191
+        y: 2105
+        width: 181
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee5329bc9e212ba0800000000000000
+      internalID: -6115555568336544019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_40
+      rect:
+        serializedVersion: 2
+        x: 7575
+        y: 2114
+        width: 209
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8d08bc1e8fff9c0800000000000000
+      internalID: -3891117904359270191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_41
+      rect:
+        serializedVersion: 2
+        x: 7835
+        y: 2114
+        width: 34
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944c94fe7c62c9580800000000000000
+      internalID: -8819131330143337399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_42
+      rect:
+        serializedVersion: 2
+        x: 8222
+        y: 2112
+        width: 187
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2da9a479cb152550800000000000000
+      internalID: 6135340619421822255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-Creajeux-blc_43
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 2113
+        width: 187
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c948a000aa3ea1040800000000000000
+      internalID: 4619254687106499740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      logo-Creajeux-blc_0: 7810677523931785472
+      logo-Creajeux-blc_1: 712122941887233107
+      logo-Creajeux-blc_10: -9094940706339486612
+      logo-Creajeux-blc_11: 2122492158509063062
+      logo-Creajeux-blc_12: 7078359017727596177
+      logo-Creajeux-blc_13: 3054673219144770748
+      logo-Creajeux-blc_14: -6174487942542448923
+      logo-Creajeux-blc_15: 5010969787037503076
+      logo-Creajeux-blc_16: -3911668565712971191
+      logo-Creajeux-blc_17: 8417755499773780287
+      logo-Creajeux-blc_18: 6535142476706954004
+      logo-Creajeux-blc_19: 3848837663774858993
+      logo-Creajeux-blc_2: 6545505852586490955
+      logo-Creajeux-blc_20: -7903963162005029045
+      logo-Creajeux-blc_21: -8439951952334038914
+      logo-Creajeux-blc_22: 3203028218177833461
+      logo-Creajeux-blc_23: -48373302660920196
+      logo-Creajeux-blc_24: -5542624387209435492
+      logo-Creajeux-blc_25: -8212720417528782669
+      logo-Creajeux-blc_26: 7238385446382214918
+      logo-Creajeux-blc_27: -911055457500620786
+      logo-Creajeux-blc_28: 1021961052233837398
+      logo-Creajeux-blc_29: -8579468711605619768
+      logo-Creajeux-blc_3: 5108903466843894583
+      logo-Creajeux-blc_30: -3689625557914094083
+      logo-Creajeux-blc_31: -7332058211609147603
+      logo-Creajeux-blc_32: -76916140963248375
+      logo-Creajeux-blc_33: 8310119275916580816
+      logo-Creajeux-blc_34: 8687463202865489924
+      logo-Creajeux-blc_35: 3683932079214214374
+      logo-Creajeux-blc_36: 7163769237735248965
+      logo-Creajeux-blc_37: 141143888823254456
+      logo-Creajeux-blc_38: -7461390917345071912
+      logo-Creajeux-blc_39: -6115555568336544019
+      logo-Creajeux-blc_4: -2167365075294909106
+      logo-Creajeux-blc_40: -3891117904359270191
+      logo-Creajeux-blc_41: -8819131330143337399
+      logo-Creajeux-blc_42: 6135340619421822255
+      logo-Creajeux-blc_43: 4619254687106499740
+      logo-Creajeux-blc_5: 5458002677119237079
+      logo-Creajeux-blc_6: 3942252799266888241
+      logo-Creajeux-blc_7: -1201325956407611397
+      logo-Creajeux-blc_8: -461729086662976123
+      logo-Creajeux-blc_9: 8081990472794654713
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

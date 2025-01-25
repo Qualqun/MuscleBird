@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5806f0aba37adf7498035666acd5a97d, type: 3}
+  m_Name: Wood
+  m_EditorClassIdentifier: 
+  tileTypes:
+  - configuration: 0
+    tileType:
+      m_sprite: {fileID: 555756832, guid: 6d913068136b9754393a824df07b27df, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 8
+    tileType:
+      m_sprite: {fileID: 1661221932, guid: 6d913068136b9754393a824df07b27df, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 4
+    tileType:
+      m_sprite: {fileID: -2027004684, guid: 6d913068136b9754393a824df07b27df, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 2
+    tileType:
+      m_sprite: {fileID: -45019600, guid: 6d913068136b9754393a824df07b27df, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 1
+    tileType:
+      m_sprite: {fileID: 153307560, guid: 6d913068136b9754393a824df07b27df, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 12
+    tileType:
+      m_sprite: {fileID: 2113565760, guid: 6d913068136b9754393a824df07b27df, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 10
+    tileType:
+      m_sprite: {fileID: 1595613077, guid: 6d913068136b9754393a824df07b27df, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 9
+    tileType:
+      m_sprite: {fileID: -1536851202142795777, guid: 6d913068136b9754393a824df07b27df, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 6
+    tileType:
+      m_sprite: {fileID: 1622493204, guid: 6d913068136b9754393a824df07b27df, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 5
+    tileType:
+      m_sprite: {fileID: 2073147405, guid: 6d913068136b9754393a824df07b27df, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 3
+    tileType:
+      m_sprite: {fileID: -1585626342, guid: 6d913068136b9754393a824df07b27df, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 14
+    tileType:
+      m_sprite: {fileID: 79374161, guid: 6d913068136b9754393a824df07b27df, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 13
+    tileType:
+      m_sprite: {fileID: 1954807199, guid: 6d913068136b9754393a824df07b27df, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 11
+    tileType:
+      m_sprite: {fileID: -850611781, guid: 6d913068136b9754393a824df07b27df, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 7
+    tileType:
+      m_sprite: {fileID: 1950913084, guid: 6d913068136b9754393a824df07b27df, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  - configuration: 15
+    tileType:
+      m_sprite: {fileID: -2067047940, guid: 6d913068136b9754393a824df07b27df, type: 3}
+      m_rotation: 0
+      m_flags: 0
+  sprite: {fileID: -852495541512626098, guid: 38aa1c431c179ae4e84b852c9a96c4f5, type: 3}
+  alternatSprite: {fileID: 0}
+  icon: {fileID: 8090818111747966859, guid: 5777c507a29c5a549b26df4b3466675c, type: 3}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  material: 1
+  maxHp: 15
+  score: 10
+  minQuantity: 1
+  maxQuantity: 3
+  forceSpawnAtSlot: 0
+  hasRandDrawer: 1
+  notRandDrawer: {fileID: 0}
