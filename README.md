@@ -26,24 +26,31 @@ Chaque joueur doit récupérer les équipements situés dans la base adverse. Po
 
 Les joueurs peuvent tirer jusqu’à trois fois avant de passer la main à leur adversaire. Chaque pièce détruite rapporte des points en fonction de sa robustesse.  
 Le jeu se termine lorsqu’un joueur a récupéré les trois équipements de l’adversaire.
+---
 
-Ma participation au projet
-Lors de ce projet je me suis occupé :
-Des projectiles avec tout ce qui s'en decoule : respawn avec affichage visuel du temps entre chaque tir (ui) ansi que le changement de position par rapport au tour du joueur.
-Les differents sons et musiques ansi que leur implementation dans le jeu.
-Ansi que le tutoriel qui apparait la premiere fois qu'on lance une partie.
+## Ma participation au projet
 
-Équipe de développement
+Dans ce projet, je me suis occupé de :  
 
-Developeur :
--Léonnel Hammel
--Thomas Coyne
--Paul Helde
--Hedi Ben Hafsa (Moi)
+- **La gestion des projectiles** :  
+  - Respawn avec affichage visuel du temps entre chaque tir (UI).  
+  - Changement de position en fonction du tour du joueur.  
+- **L’implémentation des sons et musiques**.  
+- **Le tutoriel** qui apparaît lors du premier lancement d’une partie.  
 
-Graphiste :
--Steven Bacouel
--Tristan Tasset
--Emma JOSEPH
--Brice Carpinteiro
--Maissane Dupuy
+---
+
+## Équipe de développement
+
+### Développeurs :
+- Léonnel Hammel  
+- Thomas Coyne  
+- Paul Helde  
+- **Hedi Ben Hafsa** (Moi)  
+
+### Graphistes :
+- Steven Bacouel  
+- Tristan Tasset  
+- Emma Joseph  
+- Brice Carpinteiro  
+- Maissane Dupuy  
