@@ -28,4 +28,22 @@ Les joueurs peuvent tirer jusqu’à trois fois avant de passer la main à leur 
 Le jeu se termine lorsqu’un joueur a récupéré les trois équipements de l’adversaire.
 
 Ma participation au projet
-Lors de ce projet je me suis occupée des projectiles, les differents sons et musiques ansi que le tutoriel, 
+Lors de ce projet je me suis occupé :
+Des projectiles avec tout ce qui s'en decoule : respawn avec affichage visuel du temps entre chaque tir (ui) ansi que le changement de position par rapport au tour du joueur.
+Les differents sons et musiques ansi que leur implementation dans le jeu.
+Ansi que le tutoriel qui apparait la premiere fois qu'on lance une partie.
+
+Équipe de développement
+
+Developeur :
+-Léonnel Hammel
+-Thomas Coyne
+-Paul Helde
+-Hedi Ben Hafsa (Moi)
+
+Graphiste :
+-Steven Bacouel
+-Tristan Tasset
+-Emma JOSEPH
+-Brice Carpinteiro
+-Maissane Dupuy
